@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏢 I work at Aldurra International, focusing on software development and technology solutions.<br><br>🔍 I'm looking to collaborate on innovative projects in web or mobile app development, system integrations, and optimizing workflows through technology.<br><br>💡 I'm seeking help exploring advanced AI and machine learning applications to enhance business processes.<br><br>📚 I'm learning the latest advancements in mobile development, DevOps practices, and full-stack development.<br><br>💬 Ask me about building scalable applications, debugging code, and best practices for software development.<br>
+🏢 I'm focusing on software development and technology solutions.<br><br>🔍 I'm looking to collaborate on innovative projects in web or mobile app development, system integrations, and optimizing workflows through technology.<br><br>💡 I'm seeking help exploring advanced AI and machine learning applications to enhance business processes.<br><br>📚 I'm learning the latest advancements in mobile development, DevOps practices, and full-stack development.<br><br>💬 Ask me about building scalable applications, debugging code, and best practices for software development.<br>
 
 
 ## 🌐 Socials:
